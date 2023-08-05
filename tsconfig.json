@@ -3,6 +3,7 @@
       "target": "ES6",
       "module": "CommonJS",
     },
-    "include": ["**/*.ts", "parser.ts"]
+    "include": ["**/*.ts", "parser.ts"],
+    "exclude": ["**/*.test.ts"]
   }
   
